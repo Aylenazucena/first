@@ -8,6 +8,7 @@ import morgan from 'morgan';
 import webpack from 'webpack';
 import WebpackDevMiddleware from 'webpack-dev-middleware';
 import WebpackHotMiddleware from 'webpack-hot-middleware';
+import configTemplateEngine from './config/templateEngine';
 
 import indexRouter from './routes/index';
 import usersRouter from './routes/users';
@@ -55,8 +56,7 @@ if (nodeEnviroment === 'development') {
 }
 
 // Configurando el motor de plantillas
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'hbs');
+configTemplateEngine(app);
 
 // Se establecen los middlewares
 app.use(morgan('dev', { stream: log.stream }));

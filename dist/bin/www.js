@@ -37,9 +37,6 @@ const server = http.createServer(app); // (req, res)=>{...}
 /**
  * Listen on provided port, on all network interfaces.
  */
-
-server.listen(port);
-
 /**
  * Normalize a port into a number, string, or false.
  */
@@ -78,6 +75,6 @@ function onListening() {
   const bind = typeof addr === 'string' ? `pipe ${addr}` : `port ${addr.port}`;
   debug(`📢 Listening on ${bind}`);
 }
-
+server.listen(port);
 server.on('error', onError); // callback
 server.on('listening', onListening);
