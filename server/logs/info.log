@@ -32,3 +32,6 @@
 {"level":"info","message":"⭐⭐ Listening on http://localhost:3000 ⭐⭐","timestamp":"18-10-2023 16:36:02"}
 {"level":"info","message":"GET / 200 20.142 ms - 1146\n","timestamp":"18-10-2023 16:36:08"}
 {"level":"info","message":"GET /favicon.png 304 1.125 ms - -\n","timestamp":"18-10-2023 16:36:12"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"18-10-2023 17:23:07"}
+{"level":"info","message":"⭐⭐ Listening on http://localhost:3000 ⭐⭐","timestamp":"18-10-2023 17:23:07"}
+{"level":"info","message":"GET / 200 20.755 ms - 1142\n","timestamp":"18-10-2023 17:23:12"}
