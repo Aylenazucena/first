@@ -28,3 +28,7 @@
 {"level":"info","message":"⭐⭐ Listening on http://localhost:3000 ⭐⭐","timestamp":"10-10-2023 03:20:59"}
 {"level":"info","message":"GET / 200 15.482 ms - 673\n","timestamp":"10-10-2023 03:21:04"}
 {"level":"info","message":"GET /favicon.png 200 31.394 ms - 1747\n","timestamp":"10-10-2023 03:21:06"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"18-10-2023 16:36:02"}
+{"level":"info","message":"⭐⭐ Listening on http://localhost:3000 ⭐⭐","timestamp":"18-10-2023 16:36:02"}
+{"level":"info","message":"GET / 200 20.142 ms - 1146\n","timestamp":"18-10-2023 16:36:08"}
+{"level":"info","message":"GET /favicon.png 304 1.125 ms - -\n","timestamp":"18-10-2023 16:36:12"}
