@@ -2,11 +2,10 @@
 // GET "/"
 // GET "/index"
 
-// GET '/about/'
+// GET "/about"
 const about = (req, res) => {
-  res.send("👷‍♀️ UNDER CONSTRUCTION GET '/about/' 👷‍♀️");
+  res.render('home/aboutView', { appVersion: '1.0.0' });
 };
-
 
 // Controlador Home
 export default {
