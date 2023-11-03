@@ -8,7 +8,7 @@ import path from 'path';
 
 // eslint-disable-next-line prettier/prettier
 
-const { combine, timestamp, label, printf, colorize } = format;
+const { combine, timestamp, label, prettyPrint, colorize } = format;
 
 // Creando variable del directorio raiz
 // eslint-disable-next-line
@@ -38,10 +38,7 @@ const myConsoleFormat = combine(
   // Agregando Fecha
   timestamp({ format: 'DD-MM-YYYY HH:mm:ss' }),
   // Función de impreson
-  printf(
-    (info) => `
-    ${info.level}: ${info.label}: ${info.timestamp}: ${info.message}`,
-  ),
+  prettyPrint(),
 );
 
 // Formato para los archivos
@@ -51,7 +48,7 @@ const myFileFormat = combine(
   // Agregando fecha
   timestamp({ format: 'DD-MM-YYYY HH:mm:ss' }),
   // Estableciendo la salida en formato Json
-  format.json(),
+  prettyPrint(),
 );
 
 // Creando el objeto de opciones para cada transporte

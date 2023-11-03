@@ -1,0 +1,2 @@
+{"level":"error","message":"💔 No se logro la conexion a la db 💔:Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"27-10-2023 15:57:36"}
+{"level":"error","message":"Intentando la conexion en 20 segundos","timestamp":"27-10-2023 15:57:36"}

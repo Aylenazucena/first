@@ -362,3 +362,307 @@
 {"level":"info","message":"GET /main.2bdbef3b98ef8a7133e6.hot-update.json 404 4.851 ms - 2092\n","timestamp":"25-10-2023 16:04:42"}
 {"level":"info","message":"GET /about 304 17.165 ms - -\n","timestamp":"25-10-2023 16:04:42"}
 {"level":"info","message":"GET /favicon.png 304 0.897 ms - -\n","timestamp":"25-10-2023 16:04:45"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 15:56:39"}
+{"level":"info","message":"⭐⭐ Listening on http://localhost:43935 ⭐⭐","timestamp":"27-10-2023 15:56:40"}
+{"level":"info","message":"✔ Conectando a MongoDB","timestamp":"27-10-2023 15:56:40"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 15:57:36"}
+{"level":"info","message":"⭐⭐ Listening on http://localhost:38155 ⭐⭐","timestamp":"27-10-2023 15:57:36"}
+{"level":"error","message":"💔 No se logro la conexion a la db 💔:Invalid scheme, expected connection string to start with \"mongodb://\" or \"mongodb+srv://\"","timestamp":"27-10-2023 15:57:36"}
+{"level":"error","message":"Intentando la conexion en 20 segundos","timestamp":"27-10-2023 15:57:36"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 15:58:17"}
+{"level":"info","message":"⭐⭐ Listening on http://localhost:46069 ⭐⭐","timestamp":"27-10-2023 15:58:17"}
+{"level":"info","message":"✔ Conectando a MongoDB","timestamp":"27-10-2023 15:58:17"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 15:58:32"}
+{"level":"info","message":"⭐⭐ Listening on http://localhost:40253 ⭐⭐","timestamp":"27-10-2023 15:58:32"}
+{"level":"info","message":"✔ Conectando a MongoDB","timestamp":"27-10-2023 15:58:32"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 15:59:23"}
+{"level":"info","message":"⭐⭐ Listening on http://localhost:38873 ⭐⭐","timestamp":"27-10-2023 15:59:24"}
+{"level":"info","message":"✔ Conectando a MongoDB","timestamp":"27-10-2023 15:59:24"}
+{"level":"info","message":"The server is created from the express instance","timestamp":"27-10-2023 15:59:29"}
+{"level":"info","message":"⭐⭐ Listening on http://localhost:34879 ⭐⭐","timestamp":"27-10-2023 15:59:29"}
+{"level":"info","message":"✔ Conectando a MongoDB","timestamp":"27-10-2023 15:59:29"}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 15:59:54'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:33557 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 15:59:54'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 15:59:55'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:15'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:37981 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:15'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:15'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:18'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:34227 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:18'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:18'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:22'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:46419 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:22'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:22'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:27'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:43615 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:27'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:27'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:30'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:35273 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:30'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:00:30'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:01:41'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:41601 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:01:41'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:01:42'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:01:46'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:33217 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:01:46'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:01:46'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:09'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:44187 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:09'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:09'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:14'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:41657 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:14'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:14'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:17'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:34059 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:17'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:17'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:21'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:32809 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:21'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:21'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:24'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:44519 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:24'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:25'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:27'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:37591 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:27'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:27'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:37'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:44869 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:37'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:37'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:39'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:41369 ⭐⭐',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:39'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '27-10-2023 16:02:39'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '28-10-2023 01:22:21'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:41511 ⭐⭐',
+  level: 'info',
+  timestamp: '28-10-2023 01:22:21'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '28-10-2023 01:22:22'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '28-10-2023 01:23:15'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:34543 ⭐⭐',
+  level: 'info',
+  timestamp: '28-10-2023 01:23:15'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '28-10-2023 01:23:15'
+}
+{
+  message: 'GET / 200 35.163 ms - 5503\n',
+  level: 'info',
+  timestamp: '28-10-2023 01:24:16'
+}
+{
+  message: 'GET /favicon.png 200 4.757 ms - 1747\n',
+  level: 'info',
+  timestamp: '28-10-2023 01:24:21'
+}
+{
+  message: 'GET /about 200 4.686 ms - 5389\n',
+  level: 'info',
+  timestamp: '28-10-2023 01:28:10'
+}
