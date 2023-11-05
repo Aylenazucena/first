@@ -18,6 +18,7 @@ import log from './config/winston';
 // Importando enrutador
 import router from './router';
 
+import debug from './services/debugLogger';
 // Creando variable del directorio raiz
 // eslint-disable-next-line
 global["__rootdir"] = path.resolve(process.cwd());
@@ -30,7 +31,7 @@ const nodeEnviroment = process.env.NODE_ENV || 'production';
 // Deciding if we add webpack middleware or not
 if (nodeEnviroment === 'development') {
   // Start Webpack dev server
-  console.log('🛠️ Ejecutando en modo desarrollo 🛠️');
+  debug('🛠️ Ejecutando en modo desarrollo 🛠️');
   // Adding the key "mode" with its value "development"
   webpackConfig.mode = nodeEnviroment;
   // Setting the dev server port to the same value as the express server
