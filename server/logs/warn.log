@@ -5006,3 +5006,3236 @@
   level: 'info',
   timestamp: '19-11-2023 05:18:12'
 }
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:14'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:14'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:14'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:21'
+}
+{
+  message: 'GET / 304 31.390 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:21'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:28'
+}
+{
+  message: 'GET /project/add 200 25.326 ms - 6692\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:28'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:28'
+}
+{
+  message: 'GET /img/addproject.png 304 1.043 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:28'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:45'
+}
+{
+  message: 'GET /projects/project 404 1.201 ms - 155\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:55:45'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:03'
+}
+{
+  message: 'GET /projects/project 404 0.577 ms - 155\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:03'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:08'
+}
+{
+  message: 'GET /projects/project 404 0.779 ms - 155\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:08'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:22'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:22'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:23'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:25'
+}
+{
+  message: 'GET /main.7573ebe64e84eccd2566.hot-update.json 404 2.393 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:25'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:25'
+}
+{
+  message: 'GET /project/add 200 20.994 ms - 6697\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:25'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:25'
+}
+{
+  message: 'GET /img/addproject.png 304 4.799 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:25'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:26'
+}
+{
+  message: 'GET /favicon.png 304 0.393 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:26'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:30'
+}
+{
+  message: 'GET / 200 4.718 ms - 5505\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:30'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:37'
+}
+{
+  message: 'GET /project/showDashboard 404 0.847 ms - 160\n',
+  level: 'info',
+  timestamp: '22-11-2023 04:59:37'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:08:47'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:08:47'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:08:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:08:50'
+}
+{
+  message: 'GET /main.03351583e13007a3b98a.hot-update.json 404 21.751 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:08:50'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:08:52'
+}
+{
+  message: 'GET /project/add 200 21.101 ms - 6701\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:08:52'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:02'
+}
+{
+  message: 'GET /img/addproject.png 304 1.094 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:02'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:05'
+}
+{
+  message: 'GET / 200 5.232 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:05'
+}
+{
+  message: 'GET /favicon.png 304 0.521 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:11'
+}
+{
+  message: 'GET /project/showDashboard 404 0.807 ms - 160\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:11'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:39'
+}
+{
+  message: 'GET /project/showDashboard 404 0.614 ms - 160\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:09:39'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:54'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:54'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:57'
+}
+{
+  message: 'GET /main.879e36f3dc3468bbd43e.hot-update.json 404 2.355 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:57'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:57'
+}
+{
+  message: 'GET /project/add 304 21.138 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:57'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:58'
+}
+{
+  message: 'GET /img/addproject.png 304 1.264 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:58'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:59'
+}
+{
+  message: 'GET /favicon.png 304 0.569 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:16:59'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:17:01'
+}
+{
+  message: 'GET / 200 4.747 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:17:01'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:17:08'
+}
+{
+  message: 'GET /project/showDashboard 404 0.807 ms - 160\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:17:08'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:40'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:40'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:40'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:42'
+}
+{
+  message: 'GET /main.4cd73455c9aff98fd568.hot-update.json 404 2.525 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:42'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:43'
+}
+{
+  message: 'GET /project/add 304 20.690 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:43'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:43'
+}
+{
+  message: 'GET /img/addproject.png 304 1.487 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:43'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:44'
+}
+{
+  message: 'GET /favicon.png 304 0.435 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:44'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:53'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:53'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:53'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:55'
+}
+{
+  message: 'GET /main.c809cc85aecde3806591.hot-update.json 404 2.663 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:55'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:55'
+}
+{
+  message: 'GET /project/add 304 20.377 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:55'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:56'
+}
+{
+  message: 'GET /img/addproject.png 304 0.948 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:56'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:57'
+}
+{
+  message: 'GET /favicon.png 304 3.613 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:21:57'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:15'
+}
+{
+  message: 'GET / 200 4.556 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:21'
+}
+{
+  message: 'GET /project/add 304 15.787 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:21'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:21'
+}
+{
+  message: 'GET /img/addproject.png 304 0.605 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:21'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:27'
+}
+{
+  message: 'Se carga proyecto {\n' +
+    "  name: 'cds',\n" +
+    "  description: 'sdvdsv',\n" +
+    '  _id: new ObjectId("655d9013e3f08d0e867a823d"),\n' +
+    '  date: 2023-11-22T05:22:27.414Z,\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:27'
+}
+{
+  message: 'Se redirecciona el sistema a /project',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:27'
+}
+{
+  message: 'POST /project/add 302 62.543 ms - 88\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:27'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:27'
+}
+{
+  message: 'GET /project/showDashboard 404 0.781 ms - 160\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:22:27'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:23:06'
+}
+{
+  message: 'GET /project/showDashboard 404 1.374 ms - 160\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:23:06'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:21'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:21'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:22'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:24'
+}
+{
+  message: 'GET /main.3e82931184f6fc4d2471.hot-update.json 404 2.337 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:24'
+}
+{
+  message: 'GET /project/add 200 20.606 ms - 6701\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:24'
+}
+{
+  message: 'GET /img/addproject.png 304 6.105 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:25'
+}
+{
+  message: 'GET /favicon.png 304 0.448 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:25'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:27'
+}
+{
+  message: 'GET / 304 4.477 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:25:27'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:26:00'
+}
+{
+  message: 'GET /projects/showDashboard 404 0.822 ms - 161\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:26:00'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:26:14'
+}
+{
+  message: 'GET /project/showDashboard 404 0.707 ms - 160\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:26:14'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:23'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:23'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:23'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:27'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:27'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:27'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:32'
+}
+{
+  message: 'GET / 200 19.508 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:38'
+}
+{
+  message: 'GET /project/showDashboard 200 1.136 ms - 58\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:29:38'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:32:31'
+}
+{
+  message: 'GET /project/showDashboard 304 0.916 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:32:31'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:11'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:11'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:11'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:16'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:16'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:16'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:23'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:23'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:39'
+}
+{
+  message: 'GET / 200 107.344 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:39'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:44'
+}
+{
+  message: 'GET /project/showDashboard 200 14.453 ms - 4971\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:39:44'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:29'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:29'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:30'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:33'
+}
+{
+  message: 'GET / 200 21.078 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:33'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:37'
+}
+{
+  message: 'GET /project/add 304 14.813 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:37'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:42'
+}
+{
+  message: 'GET /img/addproject.png 304 0.871 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:42:42'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:43:01'
+}
+{
+  message: 'Se carga proyecto {\n' +
+    "  name: 'Proyecto prueba',\n" +
+    "  description: 'una prueba nueva de proyecto',\n" +
+    '  _id: new ObjectId("655d94e5a9d329806290743e"),\n' +
+    '  date: 2023-11-22T05:43:01.711Z,\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: '22-11-2023 05:43:01'
+}
+{
+  message: 'Se redirecciona el sistema a /project',
+  level: 'info',
+  timestamp: '22-11-2023 05:43:01'
+}
+{
+  message: 'POST /project/add 302 32.917 ms - 88\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:43:01'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:43:01'
+}
+{
+  message: 'GET /project/showDashboard 200 15.635 ms - 5018\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:43:01'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:46'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:46'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:49'
+}
+{
+  message: 'GET /main.7e8cd40f2707c5a16bb9.hot-update.json 404 3.004 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:49'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:49'
+}
+{
+  message: 'GET /project/showDashboard 200 24.943 ms - 5057\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:49'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:52'
+}
+{
+  message: 'GET /favicon.png 304 5.228 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:47:52'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:01'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:01'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:01'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:03'
+}
+{
+  message: 'GET /main.2e18b1361bbe8836c967.hot-update.json 404 2.404 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:03'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:03'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:03'
+}
+{
+  message: 'GET /project/showDashboard 304 27.049 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:03'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:06'
+}
+{
+  message: 'GET /favicon.png 304 1.720 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:06'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:08'
+}
+{
+  message: 'GET / 200 4.729 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:08'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:49'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:49'
+}
+{
+  message: 'GET /project/showDashboard 304 10.350 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:48:49'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:08'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:08'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:09'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:15'
+}
+{
+  message: 'GET / 200 20.053 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:18'
+}
+{
+  message: 'GET /favicon.png 304 2.082 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:19'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:19'
+}
+{
+  message: 'GET /project/showDashboard 304 14.546 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:24'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:24'
+}
+{
+  message: 'GET /project/showDashboard 304 8.132 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:24'
+}
+{
+  message: 'GET /favicon.png 304 1.145 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:54:24'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:29'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:29'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:29'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:32'
+}
+{
+  message: 'GET /main.e86128cb5a1d0aac87ad.hot-update.json 404 2.447 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:32'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:32'
+}
+{
+  message: 'GET /project/showDashboard 304 35.574 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:35'
+}
+{
+  message: 'GET /favicon.png 304 1.026 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:35'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:36'
+}
+{
+  message: 'GET / 200 4.871 ms - 5508\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:36'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:43'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:43'
+}
+{
+  message: 'GET /project/showDashboard 304 8.350 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:43'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:47'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:47'
+}
+{
+  message: 'GET /project/showDashboard 304 7.202 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:47'
+}
+{
+  message: 'GET /favicon.png 304 0.451 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 05:55:47'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:09'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:09'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:09'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:13'
+}
+{
+  message: 'GET / 200 33.752 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:13'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:15'
+}
+{
+  message: 'GET /project/add 200 11.328 ms - 6701\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:16'
+}
+{
+  message: 'GET /img/addproject.png 304 0.819 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:16'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:35'
+}
+{
+  message: 'Se carga proyecto {\n' +
+    "  name: 'Segundo Proyecto ',\n" +
+    "  description: 'Nuestro segundo Proyecto de Prueba',\n" +
+    '  _id: new ObjectId("655e2003bf3772eda95e3226"),\n' +
+    '  date: 2023-11-22T15:36:35.609Z,\n' +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:35'
+}
+{
+  message: 'Se redirecciona el sistema a /project',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:35'
+}
+{
+  message: 'POST /project/add 302 57.521 ms - 88\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:35'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:35'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:35'
+}
+{
+  message: 'GET /project/showDashboard 200 24.640 ms - 6589\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:36:35'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:45'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:45'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:45'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:47'
+}
+{
+  message: 'GET /main.4845eafa7c8f8d0c0b70.hot-update.json 404 2.299 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:48'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:48'
+}
+{
+  message: 'GET /project/showDashboard 304 26.755 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:48'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:49'
+}
+{
+  message: 'GET /favicon.png 304 4.823 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:49'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:52'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:52'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:53'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:55'
+}
+{
+  message: 'GET /main.eedc4e45283b88ca084a.hot-update.json 404 2.358 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:55'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:55'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:55'
+}
+{
+  message: 'GET /project/showDashboard 304 26.665 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:55'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:56'
+}
+{
+  message: 'GET /favicon.png 304 4.460 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:45:56'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:03'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:03'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:03'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:07'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:07'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:07'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:09'
+}
+{
+  message: 'GET /main.6831d35dfa2d3b1808fe.hot-update.json 404 7.848 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:10'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:10'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:10'
+}
+{
+  message: 'GET /project/showDashboard 304 31.088 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:10'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:12'
+}
+{
+  message: 'GET /favicon.png 304 4.604 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:46:12'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:46'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:46'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:48'
+}
+{
+  message: 'GET /main.838c0da5487e81abc174.hot-update.json 404 2.426 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:48'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:48'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:48'
+}
+{
+  message: 'GET /project/showDashboard 304 27.035 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:48'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:50'
+}
+{
+  message: 'GET /favicon.png 304 1.140 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:50'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:56'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:57'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:57'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:59'
+}
+{
+  message: 'GET /main.f9a607dad45b8610bed9.hot-update.json 404 2.341 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:59'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:59'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:59'
+}
+{
+  message: 'GET /project/showDashboard 304 26.456 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:48:59'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:49:01'
+}
+{
+  message: 'GET /favicon.png 304 0.884 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:49:01'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:49:21'
+}
+{
+  message: 'GET / 304 5.989 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:49:21'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 15:49:54'
+}
+{
+  message: 'GET /project/edit/1010 200 6.255 ms - 4987\n',
+  level: 'info',
+  timestamp: '22-11-2023 15:49:54'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:44'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:44'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:44'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: 'GET /main.a92cffb2cade9efc61ec.hot-update.json 404 2.338 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: 'GET /project/edit/1010 304 30.419 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: 'GET /main.a92cffb2cade9efc61ec.hot-update.json 404 0.560 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: 'GET /project/showDashboard 200 14.180 ms - 8025\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:49'
+}
+{
+  message: 'GET /favicon.png 304 0.810 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:49'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:50'
+}
+{
+  message: 'GET /favicon.png 304 7.881 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:50'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:53'
+}
+{
+  message: 'GET / 200 11.313 ms - 5508\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:53'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:59'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:59'
+}
+{
+  message: 'GET /project/showDashboard 304 7.754 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:00:59'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:01:01'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 200 3.706 ms - 5007\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:01:01'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:01:45'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 5.288 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:01:45'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:51'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:51'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:51'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: 'GET /main.7020c79dc44e73e1e99d.hot-update.json 404 2.560 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: 'GET /project/showDashboard 304 38.113 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: 'GET /main.7020c79dc44e73e1e99d.hot-update.json 404 0.670 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: 'GET /main.7020c79dc44e73e1e99d.hot-update.json 404 0.602 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 6.940 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: 'GET /project/edit/1010 304 3.742 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:56'
+}
+{
+  message: 'GET /favicon.png 304 1.219 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:56'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:56'
+}
+{
+  message: 'GET /favicon.png 304 0.470 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:56'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:56'
+}
+{
+  message: 'GET /favicon.png 304 0.454 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:02:56'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:45'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:45'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:45'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:47'
+}
+{
+  message: 'GET /main.468f0c5d82424227383e.hot-update.json 404 3.497 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:47'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:47'
+}
+{
+  message: 'GET /project/showDashboard 304 39.449 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:47'
+}
+{
+  message: 'GET /main.468f0c5d82424227383e.hot-update.json 404 4.803 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:47'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'GET /main.468f0c5d82424227383e.hot-update.json 404 0.760 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 1010',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'Ocurre un error en: metodo "error" de project.controller',
+  level: 'error',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'GET /project/edit/1010 500 5.215 ms - 231\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 200 12.416 ms - 177\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'GET /favicon.png 304 8.724 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:48'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:50'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:50'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:50'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:54'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:54'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:56'
+}
+{
+  message: 'GET /main.e6b73518bb81255920d5.hot-update.json 404 2.297 ms - 180\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:56'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:56'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:56'
+}
+{
+  message: 'GET /project/showDashboard 304 26.579 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:56'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:57'
+}
+{
+  message: 'GET /favicon.png 304 1.229 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:03:57'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:22'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:22'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:23'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:26'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:26'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:26'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:30'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:30'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:31'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:57'
+}
+{
+  message: 'GET / 200 25.139 ms - 5509\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:05:57'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:06:02'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '22-11-2023 16:06:02'
+}
+{
+  message: 'GET /project/showDashboard 304 17.934 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:06:02'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '22-11-2023 16:06:04'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '22-11-2023 16:06:04'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '22-11-2023 16:06:04'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 4.417 ms - -\n',
+  level: 'info',
+  timestamp: '22-11-2023 16:06:04'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:21'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:21'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:22'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:30'
+}
+{
+  message: 'GET / 200 26.492 ms - 5509\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:30'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:41'
+}
+{
+  message: 'GET /project/add 200 11.399 ms - 6701\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:41'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:42'
+}
+{
+  message: 'GET /img/addproject.png 304 2.765 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:42'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:50'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:50'
+}
+{
+  message: 'GET /project/showDashboard 304 34.936 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:22:50'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:23:00'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:23:00'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:23:00'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 17.487 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:23:00'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 16:32:45'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 16:32:45'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 16:32:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:14'
+}
+{
+  message: 'GET / 200 20.052 ms - 5509\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:14'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:24'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:24'
+}
+{
+  message: 'GET /project/showDashboard 304 15.694 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:26'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:26'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:26'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 200 11.609 ms - 6873\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:26'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:26'
+}
+{
+  message: 'GET /images/addproject.png 404 1.002 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:33:26'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:18'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:18'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:20'
+}
+{
+  message: 'GET /main.3019afee218b3aa33df2.hot-update.json 404 2.387 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:20'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:21'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:21'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:21'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 29.225 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:21'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:21'
+}
+{
+  message: 'GET /images/addproject.png 404 3.365 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:21'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:22'
+}
+{
+  message: 'GET /favicon.png 304 1.422 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:37:22'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:19'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:19'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:20'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:22'
+}
+{
+  message: 'GET /main.4d53781db72e43b8547f.hot-update.json 404 2.346 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:22'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:22'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:22'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:22'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 37.778 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:22'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:22'
+}
+{
+  message: 'GET /images/addproject.png 404 0.663 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:22'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:23'
+}
+{
+  message: 'GET /favicon.png 304 0.984 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:38:23'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:55'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:55'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:55'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:57'
+}
+{
+  message: 'GET /main.f85fe7280b13498efaf9.hot-update.json 404 2.743 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:57'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:57'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:57'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:57'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 200 29.370 ms - 6887\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:57'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:58'
+}
+{
+  message: 'GET /images/addproject.png 404 2.968 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:58'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:59'
+}
+{
+  message: 'GET /favicon.png 304 0.962 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:49:59'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:12'
+}
+{
+  message: 'GET / 200 6.103 ms - 5509\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:12'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:20'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:20'
+}
+{
+  message: 'GET /project/showDashboard 304 10.117 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:20'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:22'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:22'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:22'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 14.313 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:22'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:23'
+}
+{
+  message: 'GET /images/addproject.png 404 0.830 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:23'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:46'
+}
+{
+  message: 'PUT /project/edit/65599a9428ab338b8b3733c4?_method=put 200 19.855 ms - 37\n',
+  level: 'info',
+  timestamp: '23-11-2023 16:52:46'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:15'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:15'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:16'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:20'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:20'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:20'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:23'
+}
+{
+  message: 'GET /main.8a90361ad651bb4f4a5d.hot-update.json 404 2.454 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:23'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:24'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:24'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:24'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 27.997 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:24'
+}
+{
+  message: 'GET /images/addproject.png 404 0.614 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:24'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:25'
+}
+{
+  message: 'GET /favicon.png 304 0.899 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:25'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:39'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:39'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:39'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:42'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:42'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:42'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:46'
+}
+{
+  message: 'GET /main.688a677b0668d15a488c.hot-update.json 404 4.582 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:46'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:46'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:46'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 49.213 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:46'
+}
+{
+  message: 'GET /images/addproject.png 404 2.888 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:46'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:47'
+}
+{
+  message: 'GET /favicon.png 304 1.481 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:47'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:49'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:49'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:50'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:53'
+}
+{
+  message: 'GET /main.2f606c7ef640e3cfdfec.hot-update.json 404 4.990 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:53'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:53'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:53'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:53'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 41.746 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:53'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:54'
+}
+{
+  message: 'GET /images/addproject.png 404 0.923 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:54'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:54'
+}
+{
+  message: 'GET /favicon.png 304 1.504 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:01:54'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:01'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:01'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:01'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:05'
+}
+{
+  message: 'GET /main.157242bbc8c8d3145a09.hot-update.json 404 10.422 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:05'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:05'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:05'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 31.718 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:05'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:06'
+}
+{
+  message: 'GET /images/addproject.png 404 0.926 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:06'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:07'
+}
+{
+  message: 'GET /favicon.png 304 0.849 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:07'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:11'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:11'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:12'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:14'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:14'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:18'
+}
+{
+  message: 'GET /main.8f7bb7fecc83a461e5d8.hot-update.json 404 4.200 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:18'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:18'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:18'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 60.195 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:19'
+}
+{
+  message: 'GET /images/addproject.png 404 3.112 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:20'
+}
+{
+  message: 'GET /favicon.png 304 10.168 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:20'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:23'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:23'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:23'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:26'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:26'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:27'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:30'
+}
+{
+  message: 'GET /main.7a761ccbd93503c75f51.hot-update.json 404 2.399 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:30'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:30'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:30'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:30'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 41.220 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:30'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:30'
+}
+{
+  message: 'GET /images/addproject.png 404 0.776 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:30'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:31'
+}
+{
+  message: 'GET /favicon.png 304 0.934 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:31'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:38'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:38'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:38'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:43'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:43'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:43'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:45'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:45'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:45'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:49'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:49'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:49'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:52'
+}
+{
+  message: 'GET /main.44a4fd19750bddfc13cd.hot-update.json 404 2.364 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:52'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:52'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:52'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:52'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 29.336 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:52'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:52'
+}
+{
+  message: 'GET /images/addproject.png 404 0.678 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:52'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:53'
+}
+{
+  message: 'GET /favicon.png 304 0.837 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:02:53'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:17'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:17'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:17'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:19'
+}
+{
+  message: 'GET /main.6333b9ad502416156e58.hot-update.json 404 2.425 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:19'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:19'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:19'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 43.453 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:20'
+}
+{
+  message: 'GET /images/addproject.png 404 0.667 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:20'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:21'
+}
+{
+  message: 'GET /favicon.png 304 1.143 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:21'
+}
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:32'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:32'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:32'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:35'
+}
+{
+  message: 'GET /main.146be79814e4e5154748.hot-update.json 404 2.952 ms - 180\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:35'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:35'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:35'
+}
+{
+  message: 'Proyecto encontrado con el id: 65599a9428ab338b8b3733c4',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:35'
+}
+{
+  message: 'GET /project/edit/65599a9428ab338b8b3733c4 304 37.381 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:35'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:35'
+}
+{
+  message: 'GET /images/addproject.png 404 1.177 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:35'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:36'
+}
+{
+  message: 'GET /favicon.png 304 1.101 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:07:36'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:08:04'
+}
+{
+  message: 'GET / 200 5.841 ms - 5509\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:08:04'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:08:04'
+}
+{
+  message: 'GET /favicon.png 304 5.406 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:08:04'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:08:08'
+}
+{
+  message: 'GET / 200 6.791 ms - 5509\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:08:08'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:15'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:15'
+}
+{
+  message: 'GET /project/showDashboard 304 10.416 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:15'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:18'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 655d9013e3f08d0e867a823d',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:18'
+}
+{
+  message: 'Proyecto encontrado con el id: 655d9013e3f08d0e867a823d',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:18'
+}
+{
+  message: 'GET /project/edit/655d9013e3f08d0e867a823d 200 18.132 ms - 6822\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:18'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:19'
+}
+{
+  message: 'GET /images/addproject.png 404 0.568 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:19'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:41'
+}
+{
+  message: 'Actualizando proyecto con id: 655d9013e3f08d0e867a823d',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:41'
+}
+{
+  message: 'PUT /project/edit/655d9013e3f08d0e867a823d?_method=put 302 20.381 ms - 120\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:41'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:41'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 655d9013e3f08d0e867a823d',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:41'
+}
+{
+  message: 'Proyecto encontrado con el id: 655d9013e3f08d0e867a823d',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:41'
+}
+{
+  message: 'GET /project/edit/655d9013e3f08d0e867a823d 200 8.402 ms - 6865\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:41'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:42'
+}
+{
+  message: 'GET /images/addproject.png 404 1.992 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:42'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:44'
+}
+{
+  message: 'Actualizando proyecto con id: 655d9013e3f08d0e867a823d',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:44'
+}
+{
+  message: 'PUT /project/edit/655d9013e3f08d0e867a823d?_method=put 302 5.643 ms - 120\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:44'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:44'
+}
+{
+  message: 'Se inicia la busqueda del proyecto con el id: 655d9013e3f08d0e867a823d',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:44'
+}
+{
+  message: 'Proyecto encontrado con el id: 655d9013e3f08d0e867a823d',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:44'
+}
+{
+  message: 'GET /project/edit/655d9013e3f08d0e867a823d 304 20.665 ms - -\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:44'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:45'
+}
+{
+  message: 'GET /images/addproject.png 404 0.641 ms - 160\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:45'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:48'
+}
+{
+  message: 'Se entrega dashboard de proyectos',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:48'
+}
+{
+  message: 'GET /project/showDashboard 200 7.223 ms - 8068\n',
+  level: 'info',
+  timestamp: '23-11-2023 17:12:48'
+}

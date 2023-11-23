@@ -1,5 +1,8 @@
 // Cargando dependencias
 import express from 'express';
+// Enable post and delete verbs
+// eslint-disable-next-line import/no-extraneous-dependencies
+import methodOverride from 'method-override';
 import path from 'path';
 import cookieParser from 'cookie-parser';
 import morgan from 'morgan';
@@ -76,6 +79,8 @@ app.use(morgan('dev', { stream: log.stream }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
+// Enable post and delete verbs
+app.use(methodOverride('_method'));
 // Crea un server de archivos estaticos
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
