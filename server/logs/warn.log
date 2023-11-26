@@ -8999,3 +8999,43 @@
   level: 'info',
   timestamp: '25-11-2023 17:40:17'
 }
+{
+  message: 'The server is created from the express instance',
+  level: 'info',
+  timestamp: '26-11-2023 01:51:33'
+}
+{
+  message: '⭐⭐ Listening on http://localhost:3000 ⭐⭐',
+  level: 'info',
+  timestamp: '26-11-2023 01:51:33'
+}
+{
+  message: '✔ Conectando a MongoDB',
+  level: 'info',
+  timestamp: '26-11-2023 01:51:33'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '26-11-2023 01:51:58'
+}
+{
+  message: 'GET / 200 51.596 ms - 5509\n',
+  level: 'info',
+  timestamp: '26-11-2023 01:51:58'
+}
+{
+  message: '✔Verificacion de conexion a db exitosa',
+  level: 'info',
+  timestamp: '26-11-2023 01:52:03'
+}
+{
+  message: 'Se entrega formulario de registro',
+  level: 'info',
+  timestamp: '26-11-2023 01:52:03'
+}
+{
+  message: 'GET /user/register 200 13.165 ms - 6750\n',
+  level: 'info',
+  timestamp: '26-11-2023 01:52:03'
+}
